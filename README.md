@@ -36,5 +36,8 @@ We will explore models for both forward prediction (predicting Yi = Xi,t+1) and 
   - Can the accuracy of past predictions during deployment provide a degree of certainty for future predictions or indicate market volatility?
 
 ## Models
+- Experiments will be conducted using relatively simple networks: LSTMs, GRUs, or even self-
+attention layers.
 
-Experiments will be conducted using relatively simple networks, incorporating
+--- 
+[Working Report Doc](https://drive.google.com/drive/folders/10IOqhsqau_EjCnfpGv765CGTIovB9zo5?usp=drive_link)
